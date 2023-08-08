@@ -35,6 +35,10 @@
 		{
 			"Name": "MassCrowd",
 			"Enabled": true
+		},
+		{
+			"Name": "RigLogic",
+			"Enabled": true
 		}
 	]
 }
