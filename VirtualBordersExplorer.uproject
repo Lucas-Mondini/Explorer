@@ -47,6 +47,14 @@
 		{
 			"Name": "ModelingToolsEditorMode",
 			"Enabled": true
+		},
+		{
+			"Name": "BlenderCurvesImporter",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/f45e414f78dc4be8a4ade1e5b0c301d5",
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
 		}
 	]
 }
