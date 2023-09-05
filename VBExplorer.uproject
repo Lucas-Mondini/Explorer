@@ -49,11 +49,13 @@
 			"Enabled": true
 		},
 		{
-			"Name": "BlenderCurvesImporter",
+			"Name": "OpenXR",
 			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/f45e414f78dc4be8a4ade1e5b0c301d5",
 			"SupportedTargetPlatforms": [
-				"Win64"
+				"Win64",
+				"Linux",
+				"Android",
+				"HoloLens"
 			]
 		}
 	]
